@@ -8,3 +8,5 @@ First you will open a local server: npm run backend
 
 ### Electron App:
 You will then start the electron app: npm start
+
+NOTE: Run these commands in seperate terminals.
