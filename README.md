@@ -10,3 +10,10 @@ First you will open a local server: npm run backend
 You will then start the electron app: npm start
 
 NOTE: Run these commands in seperate terminals.
+
+
+You will mainly be working in:
+  - src/renderer.jsx
+  - src/main.js
+  - src/server.js
+  - src/main.js
