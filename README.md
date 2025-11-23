@@ -7,4 +7,4 @@ A Meeting AI desktop application built using Electron Forge using the Vite templ
 First you will open a local server: npm run backend
 
 ### Electron App:
-You will then start the electrong app: npm start
+You will then start the electron app: npm start
